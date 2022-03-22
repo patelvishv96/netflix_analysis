@@ -154,10 +154,3 @@ Line graphs are used to track changes over short and long periods of time.
 so here its best match for showing tv shows and movies count charges over the 
 Years.
 '''
-
-
-
-
-
-
-
